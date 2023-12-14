@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm REZWANULLAH KHAN QURAISHI</h1>
-<h3 align="center">A SOFTWARE DEVELOPER</h3>
+<h3 align="center"> SOFTWARE DEVELOPER</h3>
 
 
 
