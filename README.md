@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Flutter (Dart), Java, Kotlin, Python, JavaScript, and web design.**
 
-- 💬 Ask me about **Flutter, java, laravel,Android studio exml...**
+- 💬 Ask me about **Flutter, java, laravel, Android Studio XML...**
 
 - 📫 How to reach me **rezwankhanq@gmail.com**
 
@@ -26,7 +26,7 @@
 
 <!-- This is a comment in the README file -->
 
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rezwanqkhan&show_icons=true&locale=en&layout=compact" alt="rezwanqkhan" /></p>   -->
+ <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rezwanqkhan&show_icons=true&locale=en&layout=compact" alt="rezwanqkhan" /></p>   
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rezwanqkhan&show_icons=true&locale=en" alt="rezwanqkhan" /></p>
 
