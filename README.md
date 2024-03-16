@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/riizvankhan" target="blank"><img src="https://img.shields.io/twitter/follow/riizvankhan?logo=twitter&style=for-the-badge" alt="@riizvankhan" /></a> </p>
 
-- 🌱 I’m currently learning **Web3(Motoko), Blockchain technologies, Python, JavaScript, and web design.**
+- 🌱 I’m currently learning  **Web3(Motoko), Blockchain technologies, Python, JavaScript, and web design.**
 
 - 💬 Ask me about **Flutter, Python, java, laravel, Android Studio XML...**
 
@@ -26,22 +26,22 @@
 
 <!-- This is a comment in the README file -->
 <h2 align="center">🎉 Statistics 🎉</h2>
-<br>
+
 <div align="center">
-  <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=rezwanqkhan&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="streak stats"/>
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=rezwanqkhan&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width="325" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rezwanqkhan&count_private=true&theme=react&border_radius=10" alt="top langs" />
+  <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=rezwanqkhan&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="GitHub Streak Stats"/>
+  <img width="390" src="https://github-readme-stats.vercel.app/api?username=rezwanqkhan&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="GitHub Readme Stats" />
+</div>
+
+<br/>
+
+<h2 align="center">🚀 More Metrics 🚀</h2>
+
+
+<div align="center">
+  <img width="390" align="center"  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rezwanqkhan&layout=compact&theme=react&border_radius=10&langs_count=10" alt="Repos per Language" />
+  <img width=390 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rezwanqkhan&count_private=true&theme=react&border_radius=10" alt="top langs" />
 </div>
 
 
 
 
-<!-- 
- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rezwanqkhan&show_icons=true&locale=en&layout=compact" alt="rezwanqkhan" /></p>   
- -->
- <!-- 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rezwanqkhan&show_icons=true&locale=en" alt="rezwanqkhan" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rezwanqkhan&" alt="rezwanqkhan" /></p>
--->
