@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm REZWANULLAH KHAN QURAISHI</h1>
+<h1 align="center">Hi 👋, I'm Rezwanullah Khan QURAISHI</h1>
 <h3 align="center"> SOFTWARE DEVELOPER</h3>
 
 
@@ -46,6 +46,14 @@
 
 
 <!-- This is a comment in the README file -->
+
+
+<div align="center">
+  <h2>🐍</h2>
+
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/AhmettKarakoc/AhmettKarakoc/output/github-contribution-grid-snake.svg" />
+</div>
+
 <h2 align="center">🎉 Statistics 🎉</h2>
 
 <div align="center">
