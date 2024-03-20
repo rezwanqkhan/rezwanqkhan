@@ -6,9 +6,9 @@
 <h3 align="center"> SOFTWARE DEVELOPER</h3>
 
 
-
+<!--
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=rezwanqkhan&label=Profile%20views&color=0e75b6&style=flat" alt="rezwanqkhan" /> </p>
-
+-->
 
 - 🌱 I’m currently learning  **Web3(Motoko), Blockchain technologies, Python, JavaScript, and web design.**
 
@@ -56,7 +56,7 @@
 <div align="center">
   <h2>🐍</h2>
 
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/AhmettKarakoc/AhmettKarakoc/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/rezwanqkhan/rezwanqkhan/output/github-contribution-grid-snake.svg" />
 </div>
 
 <h2 align="center">🎉 Statistics 🎉</h2>
