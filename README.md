@@ -7,7 +7,7 @@
 
 
 
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=rezwanqkhan&label=Profile%20views&color=0e75b6&style=flat" alt="rezwanqkhan" /> </p>
+
 
 
 - 🌱 I’m currently learning  **Web3(Motoko), Blockchain technologies, Python, JavaScript, and web design.**
@@ -69,7 +69,7 @@
 <br/>
 
 <h2 align="center">🚀 More Metrics 🚀</h2>
-
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=rezwanqkhan&label=Profile%20views&color=0e75b6&style=flat" alt="rezwanqkhan" /> </p>
 
 <div align="center">
   <img width="390" align="center"  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rezwanqkhan&layout=compact&theme=react&border_radius=10&langs_count=10" alt="Repos per Language" />
