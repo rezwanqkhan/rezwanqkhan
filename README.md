@@ -56,7 +56,10 @@
 <div align="center">
   <h2>🐍</h2>
 
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/rezwanqkhan/rezwanqkhan/output/github-contribution-grid-snake.svg" />
+
+ 
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/rezwanqkhan/rezwanqkhan/output/github-contribution-grid-snake.svg">
+
 </div>
 
 <h2 align="center">🎉 Statistics 🎉</h2>
