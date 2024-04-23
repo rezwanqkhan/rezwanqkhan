@@ -1,5 +1,5 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
-
+<!-- <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />   -->
+  <p align="right"> <img src="https://komarev.com/ghpvc/?username=rezwanqkhan&label=Profile%20views&color=0e75b6&style=flat" alt="rezwanqkhan" /> </p>
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Lobster&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Rezwanullah+Khan+QURAISHI!;" />
 </h1>
@@ -72,7 +72,6 @@
 <br/>
 
 <h2 align="center">🚀 More Metrics 🚀</h2>
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=rezwanqkhan&label=Profile%20views&color=0e75b6&style=flat" alt="rezwanqkhan" /> </p>
 
 <div align="center">
   <img width="390" align="center"  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rezwanqkhan&layout=compact&theme=react&border_radius=10&langs_count=10" alt="Repos per Language" />
