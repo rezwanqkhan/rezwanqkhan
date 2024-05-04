@@ -1,4 +1,4 @@
-<!-- <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />   -->
+
   <p align="right"> <img src="https://komarev.com/ghpvc/?username=rezwanqkhan&label=Profile%20views&color=0e75b6&style=flat" alt="rezwanqkhan" /> </p>
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Lobster&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Rezwanullah+Khan+QURAISHI!;" />
@@ -51,7 +51,7 @@
 
 
 <!-- This is a comment in the README file -->
-
+<!-- 
 
 <div align="center">
   <h2>🐍</h2>
@@ -60,7 +60,7 @@
  
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/rezwanqkhan/rezwanqkhan/output/github-contribution-grid-snake.svg">
 
-</div>
+</div>   -->
 
 <h2 align="center">🎉 Statistics 🎉</h2>
 
