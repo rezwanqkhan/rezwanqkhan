@@ -10,7 +10,7 @@
 
 
 
-- 🌱 I’m currently learning  **Web3(Motoko), Blockchain technologies, Python, JavaScript, and web design.**
+- 🌱 I’m currently learning  **AI, WEB3&Blockchain technologies, Python, JavaScript.**
 
 - 💬 Ask me about **Flutter, Python, java, laravel, Android Studio XML...**
 
