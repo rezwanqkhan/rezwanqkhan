@@ -10,7 +10,7 @@
 
 
 
-- 🌱 I’m currently learning  **AI, WEB3&Blockchain technologies, Python, JavaScript.**
+- 🌱 I’m currently learning  **AI, Web3&Blockchain technologies, Python, JavaScript.**
 
 - 💬 Ask me about **Flutter, Python, java, laravel, Android Studio XML...**
 
