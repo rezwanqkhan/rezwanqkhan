@@ -10,9 +10,9 @@
 
 
 
-- 🌱 I’m currently learning  **AI, Web3&Blockchain technologies, Python, JavaScript.**
+- 🌱 I’m currently learning  **AI, Python,Web3&Blockchain technologies, JavaScript.**
 
-- 💬 Ask me about **Flutter, Python, java, laravel, Android Studio XML...**
+- 💬 Ask me about **Flutter, Python, java**
 
 - 📫 How to reach me **rezwankhanq@gmail.com**
 
