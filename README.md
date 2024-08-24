@@ -10,7 +10,7 @@
 
 
 
-- 🌱 I’m currently learning  **AI, Python, JavaScript.**
+- 🌱 I’m currently learning  **AI, Python, JavaScript. Node.js**
 
 - 💬 Ask me about **Flutter, Python, java**
 
